@@ -1,0 +1,4 @@
+1,5 Star,5,18
+2,Samosa,12,48
+3,Orange Bar,15,90
+4,Choco Bar,10,77

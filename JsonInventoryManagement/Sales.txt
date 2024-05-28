@@ -1,0 +1,5 @@
+Name | Email Id | Phone No | Product | Price | Qty | Total | Time |
+Radha | radhaji@gmail.com | 9810432853 | Chocolate Brownie | Rs.150 | 1 | Rs.150 | Tue May 28 14:23:30 2024|
+Himanshu | HimanshuJain@gmail.com | 9867034572 | Nutella | Rs.300 | 2 | Rs.600 | Tue May 28 14:44:02 2024|
+Adhya | adhya88@yahoo.com | 8769346521 | Milky Bar | Rs.20 | 20 | Rs.400 | Tue May 28 14:46:38 2024|
+Anuj | anujmakkar57@gmail.com | 9876789543 | Mango Dolly | Rs.15 | 10 | Rs.150 | Tue May 28 14:47:26 2024|
